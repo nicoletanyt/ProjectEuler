@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.swift": "swift",
+    "iostream": "cpp",
+    "vector": "cpp"
+  }
+}
