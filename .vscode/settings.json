@@ -2,6 +2,15 @@
   "files.associations": {
     "*.swift": "swift",
     "iostream": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "string": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "__locale": "cpp",
+    "__string": "cpp",
+    "string_view": "cpp",
+    "bitset": "cpp",
+    "__config": "cpp"
   }
 }
